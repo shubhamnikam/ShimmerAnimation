@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff9800</color>
+    <color name="colorPrimaryDark">#ff9800</color>
+    <color name="colorAccent">#d81b60</color>
+
+    <color name="placeholder_bg">#dddddd</color>
+    <color name="item_name">#111111</color>
+    <color name="description">#212121</color>
+    <color name="author">#616161</color>
+    <color name="release">#616161</color>
+</resources>

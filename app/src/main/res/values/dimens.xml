@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="activity_padding">16dp</dimen>
+<dimen name="placeholder_image">48dp</dimen>
+<dimen name="placeholder_text_height">8dp</dimen>
+<dimen name="activity_padding_horizontal">16dp</dimen>
+<dimen name="padding_10">10dp</dimen>
+<dimen name="name">16dp</dimen>
+<dimen name="author">12dp</dimen>
+<dimen name="release">12dp</dimen>
+<dimen name="description">16dp</dimen>
+<dimen name="price">14dp</dimen>
+</resources>
