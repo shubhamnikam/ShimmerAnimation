@@ -1,8 +1,8 @@
 # Shimmer Animation
 Facebook Shimmer animation effects with demo JSON data loading.
 
+![Alt Text](https://camo.githubusercontent.com/95f80aa1b44e200f61eb0092f7c884b0018e0836/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f3732302f312a72476d4b594272776c6b4743443271384b7068326c412e676966)
 ![Alt Text](https://media.giphy.com/media/csy9YjlXhDUrJq7OC7/giphy.gif)
-![Alt Text](https://media.giphy.com/media/XHTQzdN4GQjnCOxydO/giphy.gif)
 
 
 
